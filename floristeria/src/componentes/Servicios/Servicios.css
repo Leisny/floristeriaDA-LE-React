@@ -1,0 +1,31 @@
+.servicios{
+    background-color: rgb(132, 155, 140);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+}
+
+.e{
+    background-color: white;
+    border-radius: 45px;
+    margin-top: 25px;
+    margin-left: 125px;
+    margin-right: 175px;
+    margin-bottom: 25px;
+    width: 300px;
+    height: 90px;
+    align-items: center;
+    justify-self:center;
+    height: auto;
+}
+
+.e:hover{
+    background-color: rgb(178, 192, 183);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
