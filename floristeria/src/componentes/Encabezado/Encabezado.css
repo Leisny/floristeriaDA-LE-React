@@ -1,0 +1,11 @@
+.titulo{
+    text-align: center;
+    background-color:rgb(122, 146, 59);
+    height: auto;
+    width: 100%;
+    font-size:25px; 
+}
+
+.nombre{
+    margin: 0px 0px;
+}
